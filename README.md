@@ -13,4 +13,4 @@
  1. The puzzle is represented in the form of a string, rather than a list/tuple.
  2. Change in Heuristic is calculated from the parent state, rather than calculating the heuristic from scratch for each state.
  
- The desciption of the optimizations, optimality of the algorithm and the results of the solver can be found in the results.pdf .
+ The desciption of the optimizations, optimality of the algorithm and the results of the solver can be found in the Results.pdf .
