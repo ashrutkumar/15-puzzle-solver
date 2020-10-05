@@ -3,10 +3,10 @@
 
  The A* graph search algorithm is used here with the heuristics Manhattan distance and Manhattan distance + Linear conflict.
 
- This solver only works for when the goal state has a blank/0 in the top-left corner i.e 
- [['0','1','2','3'],
- ['4','5','6','7'],
- ['8','9','A','B'],
+ This solver only works for when the goal state has a blank/0 in the top-left corner i.e  
+ [['0','1','2','3'],  
+ ['4','5','6','7'],  
+ ['8','9','A','B'],  
  ['C','D','E','F']]
 
  Various Optimizations are done to decrease the run-time some of which are:
